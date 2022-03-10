@@ -1,5 +1,5 @@
 # Master-s-Odyssey
-Proyecto Web Académico usando HTML, CSS, JavaScript y C#. Creado en  ASP.NET / Visual Studio.
+Proyecto Web Académico usando HTML, CSS, JavaScript y C#. Creado en  ASP.NET / Visual Studio. Se utilizó Materialize como framework de CSS.
 
 Creado para Directores de Juegos de Rol para guardar personajes, bestias, campañas, partidas, cementerio y para lanzar dados.
 
