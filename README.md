@@ -6,3 +6,5 @@ Creado para Directores de Juegos de Rol para guardar personajes, bestias, campa�
 Autores: María Paz Álvarez y Brat Veroisa.
 
 Video del funcionamiento: https://www.youtube.com/watch?v=dq1neBqtksY
+
+![Pantalla Principal](https://github.com/Buhita/Master-s-Odyssey/blob/main/Pantallas/1%20-%20Index.PNG?raw=true)
