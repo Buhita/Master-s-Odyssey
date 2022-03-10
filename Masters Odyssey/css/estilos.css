@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,800&display=swap');
+
+h2{
+font-family: 'EB Garamond', serif;
+}
+
+body{
+font-family: 'Raleway', sans-serif;
+}
+
+td {
+text-align: center;
+}
+
+div_per{
+align-content: center;
+}
+
+h5{
+text-align: center;
+}
+
+.loginput{
+text-align: center;
+}
